@@ -1,0 +1,9 @@
+.salutation {
+	color: red;
+	font-family: sans-serif;
+}
+
+.salutation:hover {
+	color: #fff;
+	background-color: red;
+}
